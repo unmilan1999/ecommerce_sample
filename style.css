@@ -1,0 +1,90 @@
+
+
+#banner_image{
+    padding-top:6%;
+    padding-bottom:5%;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(images/intro-bg_1.jpg) no-repeat center center;
+    background-size: cover;
+    height:100%;
+    width:100%;
+}
+#banner_content{
+    position: relative;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    margin-top: 12%;
+    margin-bottom: 12%;
+    overflow:hidden;
+    background-color: rgba(0, 0, 0, 0.7);
+    max-width: 660px;
+    margin-left:auto;
+    margin-right: auto;
+    color:#fff;
+}
+footer{
+ 
+    padding: 10px 0;
+    background-color: #101010;
+    color:#9d9d9d;
+    width: 100%;  
+    position: relative;
+    bottom:0;
+    
+
+}
+
+
+
+/*login-part*/
+ #marginlogin {
+  margin-top:10%;
+  margin-bottom:19%;
+
+
+}
+
+
+#sign-size {
+    padding-top:10px;
+    margin-bottom:13%;
+
+}
+
+#sign-size .form-group input{
+    padding:25px 10px;
+    font-size: 1.3em;
+}
+#sign-size .btn{
+    font-size: 1.3em; 
+}
+
+
+/*cart style*/
+#cart{
+    margin-top:10%;
+    margin-bottom:33%;
+}
+#cart table thead{
+background-color: rgba(14, 13, 13, 0.87);
+color:rgba(255, 255, 255, 0.719);
+}
+
+
+/*setting part*/
+#setting-size{
+    margin-top:4%;
+    margin-bottom:31%;
+  
+}
+#setting-size input{
+    font-size:1.3em;
+    margin-top: 10px;
+}
+
+/*success-style*/
+#success-size{
+    margin-top:4%;
+    margin-bottom:48%;
+}
